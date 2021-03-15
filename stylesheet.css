@@ -147,12 +147,14 @@ input, textarea {
   font-size: 22px;
   cursor: pointer;
   box-shadow: 0 8px #404146;
+  outline: none;
 }
 
 .contact-submit:active {
   position: relative;
   top: 8px;
   box-shadow: none;
+  outline: none;
 }
 
 .contact-form p{
